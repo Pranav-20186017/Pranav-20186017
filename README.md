@@ -13,8 +13,8 @@
 
 <p align="left">
 			<img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" alt="kubernetes" width="40" height="40"/>
 			<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-			<img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" alt="kubernetes" width="125" height="50"/>
 			<img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 			<img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 			<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
@@ -46,6 +46,7 @@
 			<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 			<img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
 		<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
+		
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-20186017&layout=compact&hide=html" alt="20186017" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pranav-20186017&show_icons=true" alt="Pranav-20186017" /></p>
