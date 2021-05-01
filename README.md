@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Kubernetes**, **Cloud Architectures** and **Distributed Systems**
 
-- 📫 How to reach me **kartheek2000mike@gmail.com**
+- 📫 How to reach me **sharmapranav307@gmail.com**
 
 - ⚡ Fun fact **I talk a lot!**
 
