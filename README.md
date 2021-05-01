@@ -14,7 +14,7 @@
 <p align="left">
 			<img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
 			<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-			<img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" alt="kubernetes" width="40" height="40"/>
+			<img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" alt="kubernetes" width="100" height="40"/>
 			<img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 			<img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 			<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
